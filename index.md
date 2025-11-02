@@ -71,7 +71,8 @@ _01/09/2020 – 24/07/2023 Palermo, Italy_
 
 ---
 
-**Website:** [https://iissvolta.edu.it/](https://iissvolta.edu.it/) | **Field of study:**  Information and Communication Technologies  | **Final grade:** 100/100 with honors | **Level in EQF:** EQF Level 4 
+**Website:** [https://iissvolta.edu.it/](https://iissvolta.edu.it/) | **Field of study:**  Information and Communication Technologies  | 
+**Final grade:** 100/100 with honors | **Level in EQF:** EQF Level 4 
 
 _01/09/2015 – 26/06/2020 Palermo, Italy_
 
