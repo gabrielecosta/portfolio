@@ -75,7 +75,7 @@ _01/09/2020 – 24/07/2023 Palermo, Italy_
 
 _01/09/2015 – 26/06/2020 Palermo, Italy_
 
-# Technical certifications
+# Certifications
 **Systens and Networking**
 - Cisco CCNA Routing and Switching: Introduction to Networks
 - Google Cloud Platform Fundamentals - Core Infrastructure

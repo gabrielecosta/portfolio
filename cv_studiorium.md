@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[back](./)
-
 # Curriculum Studiorium - Master's Degree
 
 _All grades are reported according to the Italian evaluation scale. 30L means 30 cum Laude or with honors and it is added to the maximum grade 30. 30L is A+ in ECTS and U.S. grades._
@@ -22,3 +20,5 @@ _All grades are reported according to the Italian evaluation scale. 30L means 30
 | ARTIFICIAL INTELLIGENCE 2 | 6 | ING-INF/05 | **30L** | 17/01/2025 |
 | ROBOTICS | 6 | ING-INF/05 | **30L** | 17/01/2025 |
 | INTELLIGENT SIGNAL ANALYSIS | 6 | ING-INF/05 | **29** | 13/06/2025 |
+
+[back](./)
