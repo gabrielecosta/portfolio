@@ -11,117 +11,28 @@ I am a problem-solving-oriented individual, and approach every challenge with cu
 
 > Audaces fortuna iuvat
 
-[Link to another page](./another-page.html).
+### Contact me
+
+You can reach me via:
+
+- Email: [gabrielenicolocosta@gmail.com](mailto:gabrielenicolocosta@gmail.com)  
+- Phone: +39 3898790038  
+
+Take a look to my LinkedIn profile [here](https://www.linkedin.com/in/gabriele-nicolò-costa-694b0327a) and follow me for more updates!
 
 
-# Header 1
+# Work experiences
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Education
 
-## Header 2
+# Technical certifications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Languages skills
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Personal and technical skills
 
 
-### Definition lists can be used with HTML syntax.
+# More about my career and background
+During my carrer, I have been involved in several projects and teams, where I faced real-world challenges and applied my knowledge. Take a look about  [educational activities and projects](./another-page.html) I participated in.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Additionally, during my postgraduate scholarship, I contributed to a research project focused on Artificial Intelligence applied to Cybersecurity. This work resulted in scientific publications and significantly improved my knowledge in these areas. You can view my [scientific publications](./another-page.html).
