@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: False
+title: Gabriele Nicolò Costa 
+logo: /assets/img/logo_pagina.jpg
+description: Hi! I'm Gabriele Nicolò Costa, a Ph.D. student in Computer Engineering at the University of Palermo, specializing in Artificial Intelligence applied to Cybersecurity. Welcome to my personal portfolio website!
+show_downloads: True
 google_analytics:
 theme: jekyll-theme-minimal

@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# About me
+I completed my Master’s degree in Computer Engineering, specializing in Artificial Intelligence, in October 2025, achieving the highest possible grade of 110/110 with honors.
+
+I am currently pursuing a Ph.D. at the University of Palermo, focusing on Artificial Intelligence applied to Cybersecurity. My research addresses critical challenges such as adaptive algorithms and Explainable AI for the accountability and interpretability of cybersecurity systems. My goal is to develop the next generation of intelligent and autonomous defense mechanisms to counter emerging cyber threats.
+
+I am a problem-solving-oriented individual, and approach every challenge with curiosity, determination and a passion for innovation. I am open to career opportunities in both research and industry. 
+
+> Audaces fortuna iuvat
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

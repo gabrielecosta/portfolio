@@ -125,6 +125,16 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+// ul.downloads {
+//   list-style:none;
+//   height:40px;
+//   padding:0;
+//   background: #f4f4f4;
+//   border-radius:5px;
+//   border:1px solid #e0e0e0;
+//   width:270px;
+// }
+
 ul.downloads {
   list-style:none;
   height:40px;
@@ -132,7 +142,9 @@ ul.downloads {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
+  width:90px;
+  margin: 20px auto; /* ← questa riga centra il blocco */
+  text-align: center; /* centra il contenuto interno (es. link) */
 }
 
 .downloads li {
